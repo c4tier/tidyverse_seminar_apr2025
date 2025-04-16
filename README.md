@@ -2,7 +2,7 @@
 Materials for the TRIA-FoR Apr 2025 Seminar "Data Wrangling in R with the Tidyverse"
 
 ## Download the materials
-1. Download the Rproject.zip file - click on the file above and download raw data (or use CMD+SHIFT+S).
+1. Download the Rproject.zip file - click on the file above and download raw data (or use CMD+SHIFT+S). You can also download all repository files by clicking on "Code" and selecting "Download ZIP".
 2. Unzip and open the .rproj file.
 3. "r_scripts/Tidy_seminar_script_Apr17-2025.R" may already be open, if not, load that in the R Project window. *NOTE: relative paths may not work if you run the script outside of the R Project.*
 4. You will need the following packages installed: tidyverse, janitor, gt, MaizePal, knitcitations. All are on CRAN except MaizePal (https://github.com/AndiKur4/MaizePal), which has the devtool install code included on line 88.
